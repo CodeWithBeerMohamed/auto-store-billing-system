@@ -1,0 +1,100 @@
+P100,Engine Oil,129.71,38
+P101,Brake Pad,824.56,45
+P102,Clutch Plate,893.82,5
+P103,Spark Plug,369.12,17
+P104,Air Filter,730.55,8
+P105,Oil Filter,697.62,45
+P106,Brake Lever,131.78,37
+P107,Clutch Lever,284.24,12
+P108,Rear View Mirror,189.93,31
+P109,Chain Sprocket,912.75,46
+P110,Front Fender,472.62,25
+P111,Rear Fender,295.23,18
+P112,Indicator Light,117.63,43
+P113,Headlight,974.3,23
+P114,Taillight,375.34,7
+P115,Handlebar,707.47,27
+P116,Speedometer Cable,600.79,29
+P117,Throttle Cable,722.43,20
+P118,Battery,881.39,14
+P119,Horn,807.62,7
+P120,Kick Lever,527.66,45
+P121,Footrest,547.56,22
+P122,Silencer,644.9,19
+P123,Fuel Tank Cap,246.74,45
+P124,Seat Cover,1147.18,20
+P125,Shock Absorber,443.88,29
+P126,Wheel Rim,1169.29,14
+P127,Tyre Tube,414.44,7
+P128,Disc Brake,378.42,28
+P129,Radiator Fan,1149.23,5
+P130,Piston Ring,238.97,17
+P131,Valve,317.44,38
+P132,Gear Lever,416.0,24
+P133,Crankshaft,1006.12,28
+P134,Mudguard,922.88,8
+P135,Side Stand,764.4,8
+P136,Main Stand,701.57,30
+P137,Swing Arm,646.15,27
+P138,Number Plate,1152.89,47
+P139,Engine Guard,315.16,26
+P140,Clutch Cable,765.63,5
+P141,Timing Chain,845.23,16
+P142,Camshaft,1018.61,32
+P143,Handle Grip,136.4,22
+P144,Foot Brake Pedal,480.69,42
+P145,Tail Rack,1182.96,22
+P146,Turn Signal Switch,129.07,16
+P147,Ignition Coil,623.59,41
+P148,CDI Unit,802.41,11
+P149,ECU,456.69,18
+P150,Wiring Harness,1029.66,49
+P151,Meter Assembly,340.54,35
+P152,Speed Sensor,1192.43,14
+P153,Brake Shoe,394.65,42
+P154,Air Pump Valve,975.26,35
+P155,Washer Set,127.75,42
+P156,Chain Cover,251.2,32
+P157,Spark Plug Cap,513.75,50
+P158,Throttle Body,1191.85,18
+P159,Fuel Pump,533.7,36
+P160,Ignition Switch,379.1,15
+P161,Rear Suspension,569.08,46
+P162,Disc Rotor,964.33,17
+P163,Axle,1066.1,22
+P164,Bolt Kit,232.28,36
+P165,Gasket Set,1046.5,25
+P166,Gear Box,582.21,36
+P167,Starter Motor,130.72,32
+P168,Handle Riser,495.3,25
+P169,Brake Caliper,769.52,14
+P170,Cylinder Head,1069.34,35
+P171,Head Gasket,606.14,37
+P172,Piston Kit,682.68,36
+P173,O-Ring Kit,643.96,20
+P174,Rear View Bracket,525.19,33
+P175,Reflector,845.26,31
+P176,Crash Guard,524.08,26
+P177,Luggage Hook,286.96,13
+P178,Bar End,794.1,42
+P179,Brake Fluid Reservoir,327.74,36
+P180,Coolant Tank,857.26,18
+P181,Starter Relay,444.63,30
+P182,Gear Indicator,681.76,11
+P183,Air Intake Duct,953.3,11
+P184,Side Panel,1031.93,8
+P185,Cover Set,753.44,44
+P186,Windscreen,838.93,42
+P187,Spark Plug Wrench,376.4,34
+P188,Fuel Gauge,172.99,12
+P189,Chain Adjuster,620.7,27
+P190,Engine Mount,662.72,7
+P191,Helmet Lock,589.35,12
+P192,Saddle Stay,177.92,46
+P193,Fuel Pipe,154.76,18
+P194,Throttle Sensor,1179.83,49
+P195,ABS Sensor,599.16,42
+P196,Horn Switch,370.01,8
+P197,Frame Slider,555.48,40
+P198,Disc Pad Pin,120.39,50
+P199,Foot Peg,1169.57,5
